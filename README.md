@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Smanikanthan
-- 👀 I’m already dive into cyber security
+- 👀 I have already taken a plunge into cyber security
 - 🌱 I’m currently learning SOC | SIEM
 - 💞️ I’m looking to collaborate on IT company for there purpose
 - 📫 How to reach me linkedin,github,instgram
